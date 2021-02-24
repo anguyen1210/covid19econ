@@ -1,0 +1,102 @@
+---
+title: "General resources"
+---
+```{r setup, include=FALSE}
+#knitr::opts_chunk$set(echo = TRUE)
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+Add intro text here
+.........
+.........
+
+## Collections
+
+[VoxEU & CEPR Covid-19](https://voxeu.org/pages/covid-19-page)    
+The CEPR research started publishing on this topic early, and their site has a "real-time" COVID Economics journal, discussion papers, articles and multimedia every aspect of the COVID-19 response. There's no dedicated mailing list or feed for the moment, but new content is added more or less on a weekly basis.
+
+[NBER Studies related to COVID-19](https://www.nber.org/nber-studies-related-covid-19-pandemic-topic-area)  
+NBER has collected all of their working papers on pandemic-related research and also grouped them by different topic areas. As per usual, these are all open-access and not-yet peer-reviewed. I don't have a sense yet of how frequently this page is being updated. 
+
+[CESifo Economic Research on COVID-19](https://www.cesifo.org/en/economic-research-on-covid-19)  
+The latest working papers on all things COVID-19 from the CESifo research network. Very current and organized chronilogically.
+  
+[C19 Economics](https://c19economics.org/)  
+The C19 platform was launched not long ago, sponsored by a group of partners coming from more from the health and development side than the purely academic economic side. Here the focus is really on sharing information (academic papers, webinars, discussion forums) specifically on health economics, with a focus towards low- and middle-income countries. Helpfully, they do have a newsletter that you can sign up to, though I've yet to receive anything from them. 
+
+## Podcasts: series
+
+[Pandemic Economics](https://bfi.uchicago.edu/podcast/pandemic-economics/)    
+"Insights from top economists to help you navigate the economic impact of the COVID-19 crisis. Hosts Tess Vigeland and Eduardo Porter talk to University of Chicago economists about their research, revealing important new ways to make sense of this moment. Economics is at the heart of crucial decisions about how we confront the COVID-19 crisis. Topics range from global trade to the changing meaning of work. Pandemic Economics is produced by the Becker Friedman Institute and Stitcher and is part of the University of Chicago podcast network. Production and original music in this series is by Story Mechanics."  
+
+## Surveys
+
+* Athey, S. (2018). [The impact of machine learning on economics](https://www.nber.org/chapters/c14009.pdf). In _The Economics of Artificial Intelligence: An Agenda_. University of Chicago Press.  
+
+* Athey, S., & Imbens, G. W. (2017). [The state of applied econometrics: Causality and policy evaluation](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3). _Journal of Economic Perspectives_, 31(2), 3-32.  
+
+
+## Webcasts and Online Courses
+
+* HarvardX, [HarvardX: Confronting COVID-19 - Class 21: Economic Impact/Economic Policy](https://www.youtube.com/watch?v=FrvMOJgFN4k&list=PLDSYr_mbXj9VtUDUNPmMO6VnkagS_YnbP&index=21)  
+The Harvard Global Health Institute put together an [online course about COVID-19](https://www.youtube.com/playlist?list=PLDSYr_mbXj9VtUDUNPmMO6VnkagS_YnbP) to explore a range of issues and questions related to the pandemic. There are 26 episodes, covering 26 different topics, where relevant experts are brought in to speak to each topic. I haven't gone through them all, but I did find this episode on economic impacts interesting, as well as the episodes on Global Governance and the WHO and Global Health, Global South quite informative as well.
+  
+* NBER 2015 Method Lectures, ["Lectures on Machine Learning"](https://www.nber.org/econometrics_minicourse_2015/) (Athey and Imbens).  
+
+## Textbooks
+
+__NOTE__: To the best of our knowledge, there is no "Machine Learning for Economists" textbook out there yet (Though there is one we know of that is in the making, co-authored by Mullainathan and Spiess.)
+
+#### __Machine Learning__
+
+[An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL) <br>
+*Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani* <br>
+This book provides a hands-on and R-based introduction to Machine Learning. <br/>
+_PDF available online_
+
+#### __Sparse Models__
+
+The following two books presents a detailed account of recently developed approaches to estimating models containing a large number of parameters, including the Lasso and versions of it: 
+
+[Statistical Learning with Sparsity - The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/)  
+*Trevor Hastie, Robert Tibshirani, and Martin Wainwright*  
+In book contains an introduction to and a summary of the actively developing field of statistical learning with sparse models.  
+_PDF available online_
+
+[Statistics for High-Dimensional Data - Methods, Theory and Applications](https://www.springer.com/gp/book/9783642201912)   
+*Peter Buhlmann, and Sara van de Geer*  
+This book brings together methodological concepts, computational algorithms, a
+few applications and mathematical theory for high-dimensional statistics.  
+
+
+#### __Causal Inference__
+
+The following two textbooks provide a graduate level treatment of causal inference in social sciences:
+
+[Mostly Harmless Econometrics](http://www.mostlyharmlesseconometrics.com/) <br/>
+*Joshua Angrist and Jorn-Steffen Pischke*
+
+[Causal Inference for Statistics, Social, and Biomedical Sciences](https://doi.org/10.1017/CBO9781139025751) <br/>
+*Guido Imbens and Donald Rubin*
+
+
+## Books
+
+[Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)  
+_Ajay Agrawal, Joshua Gans, Avi Goldfarb_  
+A must-read book about the economics of AI. These authors recast the rise of AI as a drop in the cost of prediction and show how basic tools from IO economics can help analyze the effects of AI on the economy and our society. 
+
+
+[Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)  
+_Cathy O'Neil_  
+In this book, O'neil discusses the dangers of using on black-box descion making algorithms that are prone to significant biases in tasks like granting (or denying) loans, workers evaluation, parole setting, health monitoring.    
+
+
+## People to follow
+
+* [Susan Athey](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey) (Stanford) [<i class="fa fa-twitter"></i> ](https://twitter.com/susan_athey)  
+
+* [Alexandre Belloni](https://faculty.fuqua.duke.edu/~abn5/belloni-index.html) (Duke)  
+
+* [Sendhil Mullainathan](https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan)   (Chicago) [<i class="fa fa-twitter"></i> ](https://twitter.com/m_sendhil)  
+
