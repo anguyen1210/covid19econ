@@ -1,0 +1,30 @@
+url: https://anguyen1210.github.io/covid19econ/
+  
+name: "#covid19econ"
+output_dir: "docs"
+
+navbar:
+  title: "#covid-econ"
+  type: inverse
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Vaccines"
+      href: vaccines.html
+    # - text: "News"
+    #   href: news.html
+  right:
+    - icon: fa-github
+      href: https://github.com/anguyen1210/covid19-econ
+    # - icon: fa-comments
+    #   href: https://github.com/...
+output:
+  html_document:
+  toc: true
+  toc_float: true
+  theme: cosmo
+  highlight: tango
+  include:
+  #     in_header: unconst.html
+  # after_body: footer.html
+  # css: styles.css
