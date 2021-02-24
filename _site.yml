@@ -1,10 +1,5 @@
   
-url: https://anguyen1210.github.io/covid19econ/
-
-name: "covid19econ"
-output_dir: "docs"
-
-#theme: jekyll-theme-slate
+#url: https://anguyen1210.github.io/covid19econ/
 
 name: "covid19econ"
 output_dir: "docs"
@@ -23,14 +18,13 @@ navbar:
     - icon: fa-github
       href: https://github.com/anguyen1210/covid19econ
     # - icon: fa-comments
-    #   href: https://github.com/ml4econ/discussion-spring2019
+    #   href: https://github.com/...
 output:
   html_document:
     toc: true
     toc_float: true
     theme: cosmo
     highlight: tango
-    #include:
-    #in_header: unconst.html
-    #after_body: footer.html
-    #css: styles.css
+    include:
+      after_body: footer.html
+    css: styles.css
