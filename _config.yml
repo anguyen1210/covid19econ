@@ -1,1 +1,36 @@
 theme: jekyll-theme-slate
+
+name: "covid19econ"
+output_dir: "docs"
+
+navbar:
+  title: "#covid19econ"
+  type: inverse
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "People"
+      href: people.html
+    - text: "Lectures"
+      href: lectures.html
+    - text: "Resources"
+      href: resources.html
+    - text: "News"
+      href: news.html
+    - text: "FAQ"
+      href: faq.html
+  right:
+    - icon: fa-github
+      href: https://github.com/anguyen1210/covid19econ
+    # - icon: fa-comments
+    #   href: https://github.com/ml4econ/discussion-spring2019
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+    highlight: tango
+    #include:
+    #in_header: unconst.html
+    #after_body: footer.html
+    #css: styles.css
