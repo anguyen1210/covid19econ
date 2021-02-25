@@ -12,8 +12,6 @@ navbar:
       href: index.html
     - text: "Vaccines"
       href: vaccines.html
-    # - text: "News"
-    #   href: news.html
   right:
     - icon: fa-github
       href: https://github.com/anguyen1210/covid19econ
