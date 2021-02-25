@@ -1,9 +1,5 @@
 ---
 title: "Vaccines"
-# knit: (function(input_file, encoding) {
-#   rmarkdown::render(input_file,
-#   encoding=encoding,
-#   output_file=file.path(dirname(input_file), "/docs", 'vaccines.html'))})
 ---
 ```{r setup, include=FALSE}
 #knitr::opts_chunk$set(echo = TRUE)
@@ -23,6 +19,10 @@ Add intro text here
   
 *The site was originally created in 2015 as part of the EPIC project with funding from the Bill & Melinda Gates Foundation. With new stakeholders and interests from the community, the platform has evolved into an audience-facing platform that it is today, making information readily used. The aim of the platform is to act as a resource for organizations and individuals involved in the field of immunization economics, including experts and policy-makers, and to create a connected global community for sharing resources, ideas, information, and research to aid in the advancement of the field.*
 
+
+## Data / Tools  
+
+  
 ## Podcasts: series
 
 [The Jab](https://www.economist.com/podcasts/2021/02/22/the-jab-a-new-podcast-from-the-economist)    
@@ -48,11 +48,11 @@ In the early 2000s, Nobel Laureate, Michael Kremer helped develop the design of 
 * Athey, S., & Imbens, G. W. (2017). [The state of applied econometrics: Causality and policy evaluation](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3). _Journal of Economic Perspectives_, 31(2), 3-32.  
 
 
-## Webcasts and Online Courses
-
+## Webcasts and Online Courses  
+  
 * Becker Friedman Institute, 30 January 2021. ["Preparing for a Pandemic: Accelerating Vaccine Availability"](https://bfi.uchicago.edu/insight/multimedia/preparing-for-a-pandemic-accelerating-vaccine-availability/) (Kremer and Athey).   
 
-* NBER 2015 Method Lectures, ["Lectures on Machine Learning"](https://www.nber.org/econometrics_minicourse_2015/) (Athey and Imbens).  
+<!-- * NBER 2015 Method Lectures, ["Lectures on Machine Learning"](https://www.nber.org/econometrics_minicourse_2015/) (Athey and Imbens).   -->
 
 
 ## Research
@@ -66,6 +66,10 @@ Ahuja, A., et al. (2021)[Preparing for a Pandemic: Accelerating Vaccine Availabi
 
 Kremer, M., Snyder, C.M. (2020). [Strengthening Incentives for Vaccine Development](https://www.nber.org/reporter/2020number4/strengthening-incentives-vaccine-development). *NBER The Reporter*, 4.    
 (December 2020) Along with improvements in sanitation and nutrition, vaccines have been given credit for substantial reductions in illness and death. Yet the level of research activity devoted to developing new vaccines, at least prior to COVID-19, raises concerns about whether the incentives to develop vaccines are commensurate with the benefits derived from them. Figure 1 shows counts of Phase 3 clinical trials registered annually from 2006 to 2019 by the National Institutes of Health. The number of vaccine trials (left scale), averaging about 75 per year for infectious diseases, is overshadowed by drug trials (right scale), averaging about 1,950 per year. Annual trials for infectious-disease vaccines trend sharply downward compared with the relatively constant number for drugs and for cancer vaccines.
+  
+McAdams, D., McDade, K.K., Ogbuoji, O., Johnson, M., Dixit, S., Yamey, G., 2020. [Incentivising wealthy nations to participate in the COVID-19 Vaccine Global Access Facility (COVAX): a game theory perspective](https://doi.org/10.1136/bmjgh-2020-003627). *BMJ Glob. Health* 5, e003627. 
+(30 November 2020)  
+
 
 #### **Economic impact**
 
@@ -77,14 +81,11 @@ Experience shows that, in response to pandemics, national governments tend to fo
 
 #### *Allocation / Distribution* 
 
-[Causal Inference for Statistics, Social, and Biomedical Sciences](https://doi.org/10.1017/CBO9781139025751) <br/>
-*Guido Imbens and Donald Rubin*
 
+<!-- ## Accounts to follow -->
 
-## Accounts to follow
+<!-- * [Susan Athey](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey) (Stanford) [<i class="fa fa-twitter"></i> ](https://twitter.com/susan_athey)   -->
 
-* [Susan Athey](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey) (Stanford) [<i class="fa fa-twitter"></i> ](https://twitter.com/susan_athey)  
+<!-- * [Alexandre Belloni](https://faculty.fuqua.duke.edu/~abn5/belloni-index.html) (Duke)   -->
 
-* [Alexandre Belloni](https://faculty.fuqua.duke.edu/~abn5/belloni-index.html) (Duke)  
-
-* [Victor Chernozhukov](http://www.mit.edu/~vchern/) (MIT)  
+<!-- * [Victor Chernozhukov](http://www.mit.edu/~vchern/) (MIT)   -->

@@ -1,19 +1,13 @@
 ---
-title: "General resources"
-
-# knit: (function(input_file, encoding) {
-#   rmarkdown::render(input_file,
-#   encoding=encoding,
-#   output_file=file.path(dirname(input_file), "/docs", 'index.html'))})
+title: "The Economics of COVID-19"
+subtitle: "Resource repository"
 ---
 ```{r setup, include=FALSE}
 #knitr::opts_chunk$set(echo = TRUE)
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-Add intro text here
-.........
-.........
+The COVID-19 pandemic is a major public health challenge that has led to unprecedented economic damage. The economic research community responded almost immediately by turning its focus towards investigating 
 
 ## Collections
 
@@ -27,12 +21,20 @@ NBER has collected all of their working papers on pandemic-related research and 
 The latest working papers on all things COVID-19 from the CESifo research network. Very current and organized chronilogically.
   
 [C19 Economics](https://c19economics.org/)  
-The C19 platform was launched not long ago, sponsored by a group of partners coming from more from the health and development side than the purely academic economic side. Here the focus is really on sharing information (academic papers, webinars, discussion forums) specifically on health economics, with a focus towards low- and middle-income countries. Helpfully, they do have a newsletter that you can sign up to, though I've yet to receive anything from them. 
+The C19 platform was launched not long ago, sponsored by a group of partners coming from more from the health and development side than the purely academic economic side. Here the focus is really on sharing information (academic papers, webinars, discussion forums) specifically on health economics, with a focus towards low- and middle-income countries. Helpfully, they do have a newsletter that you can sign up to, though I've yet to receive anything from them.   
 
-## Podcasts: series
+
+## Data / Tools    
+
+  
+## Podcasts: Series
 
 [Pandemic Economics](https://bfi.uchicago.edu/podcast/pandemic-economics/)    
 "Insights from top economists to help you navigate the economic impact of the COVID-19 crisis. Hosts Tess Vigeland and Eduardo Porter talk to University of Chicago economists about their research, revealing important new ways to make sense of this moment. Economics is at the heart of crucial decisions about how we confront the COVID-19 crisis. Topics range from global trade to the changing meaning of work. Pandemic Economics is produced by the Becker Friedman Institute and Stitcher and is part of the University of Chicago podcast network. Production and original music in this series is by Story Mechanics."  
+
+## Podcasts: Single episodes
+
+
 
 ## Surveys
 
@@ -48,7 +50,19 @@ The Harvard Global Health Institute put together an [online course about COVID-1
   
 * NBER 2015 Method Lectures, ["Lectures on Machine Learning"](https://www.nber.org/econometrics_minicourse_2015/) (Athey and Imbens).  
 
-## Textbooks
+
+## Reports  
+  
+[Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)  
+_Ajay Agrawal, Joshua Gans, Avi Goldfarb_  
+A must-read book about the economics of AI. These authors recast the rise of AI as a drop in the cost of prediction and show how basic tools from IO economics can help analyze the effects of AI on the economy and our society. 
+
+
+[Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)  
+_Cathy O'Neil_  
+In this book, O'neil discusses the dangers of using on black-box descion making algorithms that are prone to significant biases in tasks like granting (or denying) loans, workers evaluation, parole setting, health monitoring.    
+
+## Academic research
 
 __NOTE__: To the best of our knowledge, there is no "Machine Learning for Economists" textbook out there yet (Though there is one we know of that is in the making, co-authored by Mullainathan and Spiess.)
 
@@ -83,18 +97,6 @@ The following two textbooks provide a graduate level treatment of causal inferen
 
 [Causal Inference for Statistics, Social, and Biomedical Sciences](https://doi.org/10.1017/CBO9781139025751) <br/>
 *Guido Imbens and Donald Rubin*
-
-
-## Books
-
-[Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)  
-_Ajay Agrawal, Joshua Gans, Avi Goldfarb_  
-A must-read book about the economics of AI. These authors recast the rise of AI as a drop in the cost of prediction and show how basic tools from IO economics can help analyze the effects of AI on the economy and our society. 
-
-
-[Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)  
-_Cathy O'Neil_  
-In this book, O'neil discusses the dangers of using on black-box descion making algorithms that are prone to significant biases in tasks like granting (or denying) loans, workers evaluation, parole setting, health monitoring.    
 
 
 ## People to follow
