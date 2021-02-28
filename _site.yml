@@ -8,12 +8,12 @@ navbar:
   title: "#covid19econ"
   type: inverse
   left:
-    - icon: fa-home
+    - icon: fa fa-home
       href: index.html
     - text: "Vaccines"
       href: vaccines.html
   right:
-    - icon: fa-github
+    - icon: fab fa-github
       href: https://github.com/anguyen1210/covid19econ
     # - icon: fa-comments
     #   href: https://github.com/...
