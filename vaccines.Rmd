@@ -37,7 +37,7 @@ Yes, that's right, there's a whole podcast series just on COVID-19 vaccinations 
 * ["Preparing for a Pandemic: Accelerating Vaccine Availability"](https://bfi.uchicago.edu/insight/multimedia/preparing-for-a-pandemic-accelerating-vaccine-availability/). *Becker Friedman Institute.* 30 January 2021. (Kremer and Athey).   
 
   
-## Reports  
+<!-- ## Reports   -->
 
   
 ## Research papers
@@ -67,7 +67,7 @@ Experience shows that, in response to pandemics, national governments tend to fo
 
 ## Data / Tools 
   
-* Global Health Centre. (2021). [COVID-19 Vaccine Purchases and Manufacturing Agreements](www.knowledgeportalia.org/covid19-vaccine-arrangements). Graduate Institute of International and Development Studies. Retrieved from: www.knowledgeportalia.org/covid19-vaccine-arrangements
+Global Health Centre. (2021). [COVID-19 Vaccine Purchases and Manufacturing Agreements](www.knowledgeportalia.org/covid19-vaccine-arrangements). Graduate Institute of International and Development Studies. Retrieved from: www.knowledgeportalia.org/covid19-vaccine-arrangements
 Dashboard tracking public data on agreements to manufacture, purchase, supply and/or donate Covid-19 vaccines from the Global Health Centre at the Graduate Institute, Geneva. It's not clear to me just yet how much overlap there is between this the Duke or UNICEF platforms covering similar grounds. All data collected available for download in a single, handy Excel file. 
 
 

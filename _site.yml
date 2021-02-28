@@ -23,6 +23,9 @@ output:
     toc_float: true
     theme: spacelab
     highlight: tango
-    include:
+    includes:
+      in_header: google_analytics.html
       after_body: footer.html
     css: styles.css
+    
+       
