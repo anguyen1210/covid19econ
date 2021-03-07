@@ -44,27 +44,41 @@ Yes, that's right, there's a whole podcast series just on COVID-19 vaccinations 
 
 #### **Development / production / market design**
 
-Ahuja, A., et al. (2021)[Preparing for a Pandemic: Accelerating Vaccine Availability](https://bfi.uchicago.edu/working-paper/preparing-for-a-pandemic-accelerating-vaccine-availability/). *BFI Working Paper*, NO. 2021-08.  
-(30 January 2021) Vaccinating the world’s population quickly in a pandemic has enormous health and economic benefits. We analyze the problem faced by governments in determining the scale and structure of procurement for vaccines. We analyze alternative approaches to procurement, arguing that buyers should directly fund manufacturing capacity and shoulder most of the risk of failure, while maintaining some direct incentives for speed. We analyzed the optimal portfolio of vaccine investments for countries with different characteristics as well as the implications for international cooperation. Our analysis, considered in light of the experience of 2020, suggests lessons for future pandemics.
-
-Kremer, M., Snyder, C.M. (2020). [Strengthening Incentives for Vaccine Development](https://www.nber.org/reporter/2020number4/strengthening-incentives-vaccine-development). *NBER The Reporter*, 4.    
-(December 2020) Along with improvements in sanitation and nutrition, vaccines have been given credit for substantial reductions in illness and death. Yet the level of research activity devoted to developing new vaccines, at least prior to COVID-19, raises concerns about whether the incentives to develop vaccines are commensurate with the benefits derived from them. Figure 1 shows counts of Phase 3 clinical trials registered annually from 2006 to 2019 by the National Institutes of Health. The number of vaccine trials (left scale), averaging about 75 per year for infectious diseases, is overshadowed by drug trials (right scale), averaging about 1,950 per year. Annual trials for infectious-disease vaccines trend sharply downward compared with the relatively constant number for drugs and for cancer vaccines.
+Ahuja, A., et al. (2021). [Preparing for a Pandemic: Accelerating Vaccine Availability](https://bfi.uchicago.edu/working-paper/preparing-for-a-pandemic-accelerating-vaccine-availability/). *BFI Working Paper*, NO. 2021-08. [30 January 2021]
+<details>
+  <summary>*Abstract*</summary>
+Vaccinating the world’s population quickly in a pandemic has enormous health and economic benefits. We analyze the problem faced by governments in determining the scale and structure of procurement for vaccines. We analyze alternative approaches to procurement, arguing that buyers should directly fund manufacturing capacity and shoulder most of the risk of failure, while maintaining some direct incentives for speed. We analyzed the optimal portfolio of vaccine investments for countries with different characteristics as well as the implications for international cooperation. Our analysis, considered in light of the experience of 2020, suggests lessons for future pandemics.  
+</details>
+<br>
+Kremer, M., Snyder, C.M. (2020). [Strengthening Incentives for Vaccine Development](https://www.nber.org/reporter/2020number4/strengthening-incentives-vaccine-development). *NBER The Reporter*, 4. [December 2020]  
+<details>
+  <summary>*Abstract*</summary>
+Along with improvements in sanitation and nutrition, vaccines have been given credit for substantial reductions in illness and death. Yet the level of research activity devoted to developing new vaccines, at least prior to COVID-19, raises concerns about whether the incentives to develop vaccines are commensurate with the benefits derived from them. Figure 1 shows counts of Phase 3 clinical trials registered annually from 2006 to 2019 by the National Institutes of Health. The number of vaccine trials (left scale), averaging about 75 per year for infectious diseases, is overshadowed by drug trials (right scale), averaging about 1,950 per year. Annual trials for infectious-disease vaccines trend sharply downward compared with the relatively constant number for drugs and for cancer vaccines. </details>
+<br>
+McAdams, D., McDade, K.K., Ogbuoji, O., Johnson, M., Dixit, S., Yamey, G., 2020. [Incentivising wealthy nations to participate in the COVID-19 Vaccine Global Access Facility (COVAX): a game theory perspective](https://doi.org/10.1136/bmjgh-2020-003627). *BMJ Glob. Health* 5, e003627. [30 November 2020]  
+<details>  
+  <summary>*Conclusion*</summary>
+The proliferation of bilateral deals between richer nations and COVID-19 vaccine manufacturers is a major threat to ensuring global distribution of vaccines and to achieving herd immunity at a global scale. Such deals cannot be stopped, but insights from a game theory analysis suggest ways in which these deals could be configured to potentially improve the global supply of vaccines, by increasing fungibility of investments, enhancing supply-chain harmonisation and articulating principles for such deals.  
+</details>  
+<br>
   
-McAdams, D., McDade, K.K., Ogbuoji, O., Johnson, M., Dixit, S., Yamey, G., 2020. [Incentivising wealthy nations to participate in the COVID-19 Vaccine Global Access Facility (COVAX): a game theory perspective](https://doi.org/10.1136/bmjgh-2020-003627). *BMJ Glob. Health* 5, e003627. 
-(30 November 2020)  
-
-
 #### **Economic impact**
 
-Çakmaklı, C., et al. (2021). [The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks](https://www.nber.org/papers/w28395). *NBER Working Paper*, w28395.  
-(January 2021) COVID-19 pandemic had a devastating effect on both lives and livelihoods in 2020. The arrival of effective vaccines can be a major game changer. However, vaccines are in short supply as of early 2021 and most of them are reserved for the advanced economies. We show that the global GDP loss of not inoculating all the countries, relative to a counterfactual of global vaccinations, is higher than the cost of manufacturing and distributing vaccines globally. We use an economic-epidemiological framework that combines a SIR model with international production and trade networks. Based on this framework, we estimate the costs for 65 countries and 35 sectors. Our estimates suggest that up to 49 percent of the global economic costs of the pandemic in 2021 are borne by the advanced economies even if they achieve universal vaccination in their own countries.  
-  
+Çakmaklı, C., et al. (2021). [The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks](https://www.nber.org/papers/w28395). *NBER Working Paper*, w28395. [January 2021]    
+<details>
+  <summary>*Abstract*</summary>
+COVID-19 pandemic had a devastating effect on both lives and livelihoods in 2020. The arrival of effective vaccines can be a major game changer. However, vaccines are in short supply as of early 2021 and most of them are reserved for the advanced economies. We show that the global GDP loss of not inoculating all the countries, relative to a counterfactual of global vaccinations, is higher than the cost of manufacturing and distributing vaccines globally. We use an economic-epidemiological framework that combines a SIR model with international production and trade networks. Based on this framework, we estimate the costs for 65 countries and 35 sectors. Our estimates suggest that up to 49 percent of the global economic costs of the pandemic in 2021 are borne by the advanced economies even if they achieve universal vaccination in their own countries.  
+</details>
+<br>
 Hafner, M., et al.(2020). [COVID-19 and the cost of vaccine nationalism](https://www.rand.org/pubs/research_reports/RRA769-1.html). *RAND Corporation Research Reports, RR-A769-1.*  
+<details>
+  <summary>*Abstract*</summary>
 Experience shows that, in response to pandemics, national governments tend to follow their own interests instead of pursuing a more globally coordinated approach. This nationalistic behaviour could have negative consequences on how well the COVID-19 global pandemic is managed and contained. A situation in which countries push to get first access to a supply of vaccines, potentially hoarding key components for vaccine production, has been commonly referred to as 'vaccine nationalism'. This report examines how the management of the COVID-19 crisis may be affected by vaccine nationalism and what the associated economic cost would be of inequitable access to vaccines across countries.  
-
+</details>
+<br>
 <!-- #### **Allocation / Distribution** -->
 
-
+  
 ## Data / Tools 
   
 Global Health Centre. (2021). [COVID-19 Vaccine Purchases and Manufacturing Agreements](www.knowledgeportalia.org/covid19-vaccine-arrangements). Graduate Institute of International and Development Studies. Retrieved from: www.knowledgeportalia.org/covid19-vaccine-arrangements
