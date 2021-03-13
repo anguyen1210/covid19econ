@@ -39,7 +39,7 @@ Among the general COVID-19 news podcasts, this one from the BBC World Service is
 <!-- ## Podcasts: Single episodes   -->
 
   
-## Webcasts and Online Courses  
+## Videos / Webcasts / Courses  
   
 * [HarvardX: Confronting COVID-19 - Class 21: Economic Impact/Economic Policy](https://www.youtube.com/watch?v=FrvMOJgFN4k&list=PLDSYr_mbXj9VtUDUNPmMO6VnkagS_YnbP&index=21)  
 (12 Nov. 2020) The Harvard Global Health Institute put together an [online course about COVID-19](https://www.youtube.com/playlist?list=PLDSYr_mbXj9VtUDUNPmMO6VnkagS_YnbP) to explore a range of issues and questions related to the pandemic. There are 26 episodes, each covering different topics. I haven't gone through them all, but this episode on the economic impacts of COVID-19 was great, particularly for the nice overview of the impact and response to the virus in the U.S (Karen Dynan), as well as the work the IMF has been doing to better understand the global impact (Gita Gopinath). as well as the episodes on [Global Governance and the WHO](https://www.youtube.com/watch?v=Yjq1zVX1rxI&list=PLDSYr_mbXj9VtUDUNPmMO6VnkagS_YnbP&index=17&t=1s) and [Global Health, Global South](https://www.youtube.com/watch?v=oVGV6JIp5hI) quite informative as well.  
@@ -47,13 +47,33 @@ Among the general COVID-19 news podcasts, this one from the BBC World Service is
 * [The Great Lockdown: Dissecting the Economic Effects](https://www.imf.org/external/mmedia/view.aspx?vid=6198779261001). 
 (8 Oct. 2020)Interview with Damiano Sandri, co-author of chapter 2 ("Dissecting the Economic Effets") in the IMF World Economic Outlook report for October 2020 about the impact of lockdowns on the global economy.  
 
+    
+## Book / Book chapters  
+  
+Jones, Chad. [COVID-19 and the Macroeconomy](https://web.stanford.edu/~chadj/Macroeconomics_Covid.pdf), (Supplement to *Macroeconomics, 5th edition*). [27 February 2021]  
+  
+Blanchard, Olivier. [The COVID economic crisis](https://piie-my.sharepoint.com/personal/olivier_blanchard_piie_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Folivier%5Fblanchard%5Fpiie%5Fcom%2FDocuments%2Fchapter%20on%20covid%2E%20%20september%2014%202020%2Epdf&parent=%2Fpersonal%2Folivier%5Fblanchard%5Fpiie%5Fcom%2FDocuments&originalPath=aHR0cHM6Ly9waWllLW15LnNoYXJlcG9pbnQuY29tLzpiOi9wL29saXZpZXJfYmxhbmNoYXJkL0VWNUVxVVBEQ2MxTHFxeE5jb0oxM2JzQnoyb2dzd3NDS3N4X3MxQlJJdmt6cFE_cnRpbWU9V0loSEZGVGsyRWc), (Additional chapter for *Macroeconomics, 8th edition*). [September 2020]  
+
   
 ## Reports  
 
  International Monetary Fund. 2020. [World Economic Outlook: A Long and Difficult Ascent](https://www.imf.org/en/Publications/WEO/Issues/2020/09/30/world-economic-outlook-october-2020#Full%20Report%20and%20Executive%20Summary). Washington, DC, October.  
 
   
-<!-- ## Research papers -->
+## Research papers  
+  
+Bloom, D.E., Kuhn, M., Prettner, K., 2020. [*Modern Infectious Diseases: Macroeconomic Impacts and Policy Responses (No. w27757)*](https://www.nber.org/papers/w27757). National Bureau of Economic Research. [August 2020]    
+<details>
+  <summary>*Abstract*</summary>
+We discuss and review literature on the macroeconomic effects of epidemics and pandemics since the late 20th century. First, we cover the role of health in driving economic growth and well-being and discuss standard frameworks for assessing the economic burden of infectious diseases. Second, we sketch a general theoretical framework to evaluate the tradeoffs policymakers must consider when addressing infectious diseases and their macroeconomic repercussions. In so doing, we emphasize the dependence of economic consequences on (i) disease characteristics; (ii) inequalities among individuals in terms of susceptibility, preferences, and income; and (iii) cross-country heterogeneities in terms of their institutional and macroeconomic environments. Third, we study pharmaceutical and nonpharmaceutical policies aimed at mitigating and preventing infectious diseases and their macroeconomic repercussions. Fourth, we discuss the health toll and economic impacts of five infectious diseases: HIV/AIDS, malaria, tuberculosis, influenza, and COVID-19. Although major epidemics and pandemics can take an enormous human toll and impose a staggering economic burden, early and targeted health and economic policy interventions can often mitigate both to a substantial degree.  
+</details>
+<br>
+Bloom, David E., Kuhn, M., Prettner, K., 2018. [*Health and Economic Growth (No. 11939)*](https://www.iza.org/publications/dp/11939/health-and-economic-growth), Discussion Papers. IZA Institute of Labor Economics. [November 2018]
+<details>
+  <summary>*Abstract*</summary>
+The positive cross-country correlation between health and economic growth is well-established, but the underlying mechanisms are complex and difficult to discern. Three issues are of central concern. First, assessing and disentangling causality between health and economic growth is empirically challenging. Second, the relation between health and economic growth changes over the process of economic development. Third, different dimensions of health (mortality vs. morbidity, children's and women's health, and health at older ages) may have different economic effects. 
+</details>
+<br>
 
 <!-- #### __Machine Learning__ -->
 

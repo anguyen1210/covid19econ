@@ -32,10 +32,13 @@ Yes, that's right, there's a whole podcast series just on COVID-19 vaccinations 
 "In the early 2000s, Nobel Laureate, Michael Kremer helped develop the design of advance market commitment models (AMCs). They were used to incentivize the private sector to work on issues of relevance for the developing world by pledging that if they developed an appropriate vaccine, funds would be available for those countries to purchase it. The approach resulted in billions of dollars being devoted to pneumococcal vaccines for strains common in developing countries, saving hundreds of thousands of lives. Kremer's latest research focuses on how to expedite the production and distribution of the COVID-19 vaccines immediately following successful medical trials. In this podcast, Kremer says at-risk investment into vaccine manufacturing capacity before clinical approval would advance vaccine distribution by 6 months or more."  
 
   
-## Webcasts and Online Courses  
-    
-* ["Preparing for a Pandemic: Accelerating Vaccine Availability"](https://bfi.uchicago.edu/insight/multimedia/preparing-for-a-pandemic-accelerating-vaccine-availability/). *Becker Friedman Institute.* 30 January 2021. (Kremer and Athey).   
+## Videos / Webcasts / Courses
 
+* ["Vaccine economics: how Covid-19 will disrupt the vaccine market"](https://www.ft.com/video/e6f487f4-a7d9-4e90-b9cb-ef8d25803bec). *Financial Times*. [10 March 2021]    
+"The FT explains the business models behind vaccines and asks if the Covid-19 pandemic will fundamentally change the vaccine market. This short documentary features global experts including Bill Gates, the CEOs of Moderna and Gavi, and the lead scientist behind the Oxford/AstraZeneca vaccine"
+    
+* ["Preparing for a Pandemic: Accelerating Vaccine Availability"](https://bfi.uchicago.edu/insight/multimedia/preparing-for-a-pandemic-accelerating-vaccine-availability/). *Becker Friedman Institute*. [30 January 2021]   
+"In a new working paper, Preparing for a Pandemic: Accelerating Vaccine Availability, economists from seven research institutions, the World Bank, and the UK’s foreign Commonwealth and Development Office make the economic case for accelerating the arrival and distribution of COVID-19 vaccines, and they offer a roadmap to get it done. Nobel Laureate Michael Kremer of UChicago and Susan Athey of Stanford Business share key findings of this research, including opportunities to enhance the speed of acquiring and administering vaccines. They also address the economics of advance contracts, the value of making further investments in vaccine capacity now, and the benefits of a vaccine exchange to facilitate the best use of existing doses around the world."
   
 <!-- ## Reports   -->
 
@@ -81,7 +84,12 @@ Experience shows that, in response to pandemics, national governments tend to fo
   
 ## Data / Tools 
   
-Global Health Centre. (2021). [COVID-19 Vaccine Purchases and Manufacturing Agreements](www.knowledgeportalia.org/covid19-vaccine-arrangements). Graduate Institute of International and Development Studies. Retrieved from: www.knowledgeportalia.org/covid19-vaccine-arrangements
+[LSHTM VaC tracker](https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/)  
+"In response to the unfolding pandemic and the extraordinary volume and pace of global vaccine research, we developed an online, interactive vaccine tracker hosted by the Vaccine Centre (VaC) at the London School of Hygiene and Tropical Medicine (LSHTM; London, UK). Launched in April 2020, this tracker aims to collate up-to-date information on all COVID-19 vaccine candidates from inception through to deployment, enabling policy makers, researchers, and the public to keep informed of the rapid developments. All code and underlying data for the tracker are freely available and are updated regularly through a [Github repository](https://github.com/vac-lshtm/VaC_tracker)."    
+  
+For the R users, this is a really nice Shiny app. Code is shared, and data sources are well-[documented](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(21)00043-7/fulltext).
+  
+Global Health Centre. (2021). [COVID-19 Vaccine Purchases and Manufacturing Agreements](www.knowledgeportalia.org/covid19-vaccine-arrangements). Graduate Institute of International and Development Studies. Retrieved from: www.knowledgeportalia.org/covid19-vaccine-arrangements  
 Dashboard tracking public data on agreements to manufacture, purchase, supply and/or donate Covid-19 vaccines from the Global Health Centre at the Graduate Institute, Geneva. It's not clear to me just yet how much overlap there is between this the Duke or UNICEF platforms covering similar grounds. All data collected available for download in a single, handy Excel file. 
 
 
